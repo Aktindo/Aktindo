@@ -1,4 +1,11 @@
-### Hi there 👋
+### Aktindo
+I am currently a student who likes to code in his free time. 
+
+- 🐱 Currently working on a package called some-random-cat
+- 📦 Building NPM Packages
+- 🤖 And a great discord bot called Vulcan (inactive)
+
+If you need any help with JavaScript, I will try my best to help you :)
 
 <!--
 **Aktindo/Aktindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
