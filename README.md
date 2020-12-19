@@ -5,7 +5,7 @@ I am currently a student who likes to code in his free time.
 - 📦 Building NPM Packages
 - 🤖 And a great discord bot called Vulcan (inactive)
 
-[![Aktindo's github stats](https://github-readme-stats.vercel.app/api?username=Aktindo)](https://github.com/anuraghazra/github-readme-stats)
+[![Aktindo's github stats](https://github-readme-stats.vercel.app/api?username=Aktindo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktindo)](https://github.com/anuraghazra/github-readme-stats)
 
