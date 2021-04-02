@@ -5,7 +5,7 @@ I am currently a student who likes to code in his free time.
 - 🌱 I’m currently learning react-native to develop cross-platform applications.
 - 💬 Ask me about NodeJS/Java/React/Angular and I will try my best to help you :)
 - 📫 How to reach me: Join my [Discord server](https://discord.gg/6g297Usrsn) or [twitter](https://twitter.com/aktindo)
-- 😄 One word to describe me: Enthusiatic. 
+- 😄 One word to describe me: Enthusiastic. 
 - ⚡ Fun fact: This is a long README.
 
 ## Languages I develop with:
