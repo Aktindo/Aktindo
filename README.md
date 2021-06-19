@@ -27,3 +27,5 @@ I am currently a student who likes to code in his free time.
 [![Aktindo's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Aktindo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aktindo)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
