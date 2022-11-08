@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React native and C#**
 
-- 👨‍💻 All of my projects are available at [https://aktindo.me/projects](https://aktindo.me/projects)
+- 👨‍💻 All of my projects are available at [https://aktindogh.vercel.app/projects](https://aktindogh.vercel.app/projects)
 
 - 💬 Ask me about **Anything related to my skills, and I will try my best to help you!**
 
 - 📫 How to reach me **On Discord: Aktindo#5303**
 
-- ⚡ Fun fact **I'm a computer enthusiast.**
+- ✍ Blogs at https://aktindoblogs.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
