@@ -1,7 +1,5 @@
-# 💫 About Me:
-I develop real-world applications (most of the time, hopefully) using Next-gen web tools and services. <br>I also like to interpret code and analyze it to make efficient solutions and algorithms.  <br><br>Just another person trying to live life by commanding machines.
-
-**CHECK OUT MY WEBSITE!! https://akshsingla.vercel.app**
+# About Me
+I develop real-world applications (most of the time, hopefully) using Next-gen web tools and services. <br>I also like to interpret code and analyze it to make efficient solutions and algorithms. 
 
 
 ## 🌐 Socials:
